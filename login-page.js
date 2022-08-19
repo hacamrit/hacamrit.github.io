@@ -14,7 +14,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (1) {
 
-        alert("You have successfully logged in.");
+        alert(" welcome You have successfully logged in.");
 
        /* location.reload();*/
 
